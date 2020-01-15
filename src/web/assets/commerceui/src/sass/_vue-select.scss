@@ -103,6 +103,7 @@ $vs-state-active-color: $textColor;
       }
 
       .vs__open-indicator {
+        cursor: pointer;
         width: 24px;
       }
     }
